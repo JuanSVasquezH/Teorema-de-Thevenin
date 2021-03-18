@@ -53,33 +53,14 @@ __1.2 Objetivos Específicos__
 
 __3.	Marco Teórico__ 
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
 	     
-	
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT1.png)
-	
-	
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/F_Onda.png)
-	
-	
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Formas_de_Onda.png)
-	
-	                                   Figura 1 Formas de Onda 
-	
-	
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/F1.jpg)
-	
-	                                   Figura 2 Formas de Onda (Seno y Coseno)
 		
 
 ___4.	Diagramas __
        
-
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
-
-							Diagramas 1 
-
-
+   
+   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
 
 
 __5.	Lista De Componentes__
@@ -104,8 +85,6 @@ __5.	Lista De Componentes__
 
 __6. Procedimiento.__
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
-
 
 
 
@@ -115,7 +94,7 @@ __7. Descripción De Prerrequisitos Y Configuración.__
 
 __8. Tabulación de Datos.__
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/TDatos.jpeg)
+
 
 __9. Cálculos.__
 

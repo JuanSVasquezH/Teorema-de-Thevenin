@@ -126,7 +126,13 @@ __12. Conclusiones.__
 
 __13. Bibliografía.__
 
-       
+
+   -	Obando. L (2019), Teorema de Thévenin, recuperado de: https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/.
+   
+   -	www.areatecnologia.com (2020), Teorema de Thévenin, recuperado de: https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html. 
+   
+   -	SN (2020), Teorema de Thévenin, recuperado de: https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html. 
+
 
 __14. Anexos__
 

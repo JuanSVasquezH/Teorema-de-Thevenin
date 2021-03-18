@@ -65,7 +65,7 @@ __3.	Marco Teórico__
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D4.png)
    
 
-__4. Diagramas __
+__4. Diagramas__
        
        
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/C1.png)
@@ -136,7 +136,7 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
    - Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Calculo_Vth.png)
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Voltaje_Vth.png)
  
                                     Voltaje Equivalente Thévenin en R5= 1k
 				    

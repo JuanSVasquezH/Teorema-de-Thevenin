@@ -97,21 +97,51 @@ __6. Procedimiento.__
 
 
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/C1.png)
+   
+                               Circuito a Implementar 
+   
 
    - Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
 
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/VoltajeR5.png)
+   
+                                Voltaje en Resistor R5= 1k
+				
+				
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/VoltajeR5.png)
+ 
+                               Corriente en Resistor R5= 1k
+			       
+			       
    - Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
+
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Voltaje_circuito_Abierto_sinR5.png)
+ 
+                               Voltaje en Termilanes A y B  sin R5= 1k
 
 
    - Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
 
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Resistencia_Rth.png)
+ 
+                                    Resistencia Equivalente Rth.
+			       
 
    - Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Calculo_Vth.png)
+ 
+                                    Voltaje Equivalente Thévenin en R5= 1k
+				    
+				    
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/Corriente_Ith.png)
+ 
+                                    Corriente Equivalente Thévenin en R5= 1k
 
 
 

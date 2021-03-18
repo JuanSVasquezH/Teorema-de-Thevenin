@@ -55,15 +55,17 @@ __3.	Marco Teórico__
 
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D1.png)
    
+   
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D2.png)
+   
    
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D3.png)
    
+   
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D4.png)
    
-  	     		
 
-___4.	Diagramas __
+__4. Diagramas __
        
        
    ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/C1.png)

@@ -60,7 +60,7 @@ __3.	Marco Teórico__
 ___4.	Diagramas __
        
    
-   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
+   
 
 
 __5.	Lista De Componentes__
@@ -116,10 +116,13 @@ __11. Aportaciones o recomendaciones.__
 __12. Conclusiones.__ 
 
    ●	
+   
+   ●
+   
+   ●
+   
    ●	
-   ●	
-   ●	
-	 ●	
+		
 
 __13. Bibliografía.__
 

@@ -158,7 +158,7 @@ __8. Tabulación de Datos.__
 
 __9. Cálculos.__
 
-      
+   - Los calculos realizados para le presente practica se encuentran en calpeta Anexos: https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Anexos/Teorema%20de%20Th%C3%A9venin%20Calculos%20.pdf
 
 __10. Preguntas propuestas__
 
@@ -169,7 +169,6 @@ __11. Aportaciones o recomendaciones.__
 
    ● Una recomendacion es realizar tanto los calculos como las mediciones de los datos que nos piden con simuladores que sean completos y confiables ya que con estos estaremos seguros de realizar una camparativa de datos y asi llegar a una conclusión correcta y con los conceptos bien claros.
 
-   ●	
 
 
 __12. Conclusiones.__ 
@@ -194,5 +193,7 @@ __13. Bibliografía.__
 __14. Anexos__
 
    - Link del Video: 
-
+   - Simulacion (Tinkercad): (Equivalente Thévenin)https://www.tinkercad.com/things/eXAjfONqFtc-equivalentetheveninlab7/editel?sharecode=tooBgra0WP8LivtIstfg14cWn2rLLvcXlQWGo14nvjs
+   
+   - (Circuito Implementado): https://www.tinkercad.com/things/85Yij4HJHQO-teorema-de-thevenin-circuito-1lab7/editel?sharecode=BA7O2VXGkXwpf3QQsL6Y8Uom8h3hJ1vPj0ziWiCVP08 
 

@@ -53,7 +53,7 @@ __1.2 Objetivos Específicos__
 
 __3.	Marco Teórico__ 
 
-   ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/D1.png)
 	     
 		
 

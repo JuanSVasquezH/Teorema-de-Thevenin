@@ -38,18 +38,20 @@ __2.	Objetivos__
 
 __1.1 Objetivo General__
 
-   ●	
-   
-   ●	
+   ●	Analizar y comprender los conceptos básicos del teorema de Thévenin para la resolución de ejercicios de forma correcta.
+
+   ●	Analizar todo el campo y aprovechar la ejemplificación del circuito para un óptimo y eficiente calculo.
 
 __1.2 Objetivos Específicos__
 
 
-   ●	
+   ●	Identificar la forma correcta de la transformación de las resistencias a una equivalente de Thévenin y de igual forma la transformación de la fuente a una equivalente en una fuente de Thévenin.
 
-   ●	
+   ●	Calcular y comparar los resultados generados analíticos con una un circuito equivalente de Thévenin y con los resultados analíticos con un circuito original.
 
-   ●	
+   ●	Corroborar que los datos obtenidos por un cálculo analítico y por una simulación tienen semejanza en base al circuito original y uno equivalente de Thévenin .
+
+
 
 __3.	Marco Teórico__ 
 
@@ -196,4 +198,6 @@ __14. Anexos__
    - Simulacion (Tinkercad): (Equivalente Thévenin)https://www.tinkercad.com/things/eXAjfONqFtc-equivalentetheveninlab7/editel?sharecode=tooBgra0WP8LivtIstfg14cWn2rLLvcXlQWGo14nvjs
    
    - (Circuito Implementado): https://www.tinkercad.com/things/85Yij4HJHQO-teorema-de-thevenin-circuito-1lab7/editel?sharecode=BA7O2VXGkXwpf3QQsL6Y8Uom8h3hJ1vPj0ziWiCVP08 
+
+
 

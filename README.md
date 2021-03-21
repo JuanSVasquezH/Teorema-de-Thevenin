@@ -194,7 +194,7 @@ __13. Bibliografía.__
 
 __14. Anexos__
 
-   - Link del Video: 
+   - Link del Video: https://youtu.be/6dQkETVR9vA
    - Simulacion (Tinkercad): (Equivalente Thévenin)https://www.tinkercad.com/things/eXAjfONqFtc-equivalentetheveninlab7/editel?sharecode=tooBgra0WP8LivtIstfg14cWn2rLLvcXlQWGo14nvjs
    
    - (Circuito Implementado): https://www.tinkercad.com/things/85Yij4HJHQO-teorema-de-thevenin-circuito-1lab7/editel?sharecode=BA7O2VXGkXwpf3QQsL6Y8Uom8h3hJ1vPj0ziWiCVP08 

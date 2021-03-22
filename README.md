@@ -157,6 +157,14 @@ __7. Descripción De Prerrequisitos Y Configuración.__
 __8. Tabulación de Datos.__
 
 
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/bbb.png)
+   
+                                        Tabla 1
+
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/aaa.png)
+   
+                                        Tabla 2 
+
 
 __9. Cálculos.__
 

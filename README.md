@@ -113,7 +113,7 @@ __6. Procedimiento.__
                                 Voltaje en Resistor R5= 1k
 				
 				
-   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/VoltajeR5.png)
+   ![](https://github.com/JuanSVasquezH/Teorema-de-Thevenin/blob/main/Imagenes/CorrienteR5.png)
  
                                Corriente en Resistor R5= 1k
 			       
